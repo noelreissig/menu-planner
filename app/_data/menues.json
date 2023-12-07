@@ -1,0 +1,39 @@
+{
+  "menues": [
+    {
+      "menu": "Arroz con atun",
+      "category": "main",
+      "ingredients": ["arroz", "atún"]
+    },
+    {
+      "menu": "Ensalada de lechuga y tomate",
+      "category": "sider",
+      "ingredients": ["lechuga", "tomate"]
+    },
+    {
+      "menu": "Churrasco de pollo con puré de papas",
+      "category": "main",
+      "ingredients": ["pollo", "puré", "papas"]
+    },
+    {
+      "menu": "Verduras asadas",
+      "category": "sider",
+      "ingredients": ["morrón", "cebolla", "zanahoria"]
+    },
+    {
+      "menu": "Tomates cherries",
+      "category": "sider",
+      "ingredients": "tomates cherries"
+    },
+    {
+      "menu": "Milanesa de pescado con arroz",
+      "category": "main",
+      "ingredients": ["pescado, arroz"]
+    },
+    {
+      "menu": "Ensalada de verdes",
+      "category": "sider",
+      "ingredients": "Hojas verdes"
+    }
+  ]
+}
