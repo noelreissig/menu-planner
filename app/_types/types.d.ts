@@ -1,0 +1,1 @@
+type Week = string[];
